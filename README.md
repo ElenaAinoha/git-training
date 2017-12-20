@@ -1,2 +1,2 @@
 # git-training
-Vamos a combinar
+New branch
