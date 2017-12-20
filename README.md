@@ -1,3 +1,2 @@
 # git-training
-Hola
-Holi
+Vamos a combinar
